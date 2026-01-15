@@ -1,14 +1,14 @@
 ---
 layout: home
-title: "Compsci 281b: Advanced Topics in Learning and Decision Making"
+title: "Stat 241b: Advanced Topics in Learning and Decision Making"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: "Compsci 281b: Advanced Topics in Learning and Decision Making"
+  name: "Stat 241b: Advanced Topics in Learning and Decision Making"
 ---
 
-# Compsci 281b: Advanced Topics in Learning and Decision Making
+# Stat 241b: Advanced Topics in Learning and Decision Making
 {: .mb-2 }
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
