@@ -1,0 +1,9 @@
+subjectArea:
+  code: STAT
+  description: Statistics
+
+catalogNumber:
+  formatted: '241B'
+  number: '241'
+  prefix: 'C'
+  suffix: 'B'
